@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danula Gunawardana</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack Software Engineer from Sri Lanka</h3>
 <img aligh="right" alt="Coding" width="1200" src="https://media.licdn.com/dms/image/v2/D5616AQGOYuK8rMudRQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721336454889?e=1756339200&v=beta&t=eFPdN9gvE1mpoL6_hxGBKnv9bj3YMtQlpZQjJ4UAaDA" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guneofficial" alt="guneofficial" /></a> </p>
