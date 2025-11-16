@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danula Gunawardana</h1>
 <h3 align="center">A passionate fullstack Software Engineer from Sri Lanka</h3>
-<img aligh="right" alt="Coding" width="1200" height="400" src="https://cdn.discordapp.com/attachments/1042367729375662080/1426199522735816795/se.gif?ex=68ea5b4f&is=68e909cf&hm=97831a8977f5f7cc827ad4233d4d7b006b1aa7b1a0c529ae29994d18f58fcdca" />
+<img aligh="right" alt="Coding" width="1200" height="400" src="https://media.discordapp.net/attachments/1042367729375662080/1426199522735816795/se.gif?ex=691a7a0f&is=6919288f&hm=58b5a0f75235bffbc348ffd27a6314dadb1f254fae5b43b766c0ebbbbaa1142b&=" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guneofficial" alt="guneofficial" /></a> </p>
 
