@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack Software Engineer from Sri Lanka</h3>
 <img aligh="right" alt="Coding" width="1200" height="400" src="https://media.discordapp.net/attachments/1042367729375662080/1426199522735816795/se.gif?ex=691a7a0f&is=6919288f&hm=58b5a0f75235bffbc348ffd27a6314dadb1f254fae5b43b766c0ebbbbaa1142b&=" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guneofficial" alt="guneofficial" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.discordapp.com/attachments/1042367729375662080/1439493415829246105/about_me.gif?ex=6980e476&is=697f92f6&hm=753f30c75b4b129dda546be6caeeeb5cc69ccb0ff95579bd21e1638141d21c07&" alt="guneofficial" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, Nest.js, Node.js,.NET**
 
