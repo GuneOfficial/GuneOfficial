@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danula Gunawardana</h1>
 <h3 align="center">A passionate fullstack Software Engineer from Sri Lanka</h3>
-<img aligh="right" alt="Coding" width="1200" height="400" src="https://media.discordapp.net/attachments/1042367729375662080/1426199522735816795/se.gif?ex=691a7a0f&is=6919288f&hm=58b5a0f75235bffbc348ffd27a6314dadb1f254fae5b43b766c0ebbbbaa1142b&=" />
+<!-- <img aligh="right" alt="Coding" width="1200" height="400" src="https://cdn.discordapp.com/attachments/1042367729375662080/1426199522735816795/se.gif?ex=69b60b0f&is=69b4b98f&hm=d003379863d1f4fd86187bfd96ba21d26b982610907dec3fba1f967ec4752137&" /> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.discordapp.com/attachments/1042367729375662080/1439493415829246105/about_me.gif?ex=6980e476&is=697f92f6&hm=753f30c75b4b129dda546be6caeeeb5cc69ccb0ff95579bd21e1638141d21c07&" alt="guneofficial" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.discordapp.com/attachments/1042367729375662080/1439493415829246105/about_me.gif?ex=69b64936&is=69b4f7b6&hm=e9bab9365de821828fea227b23f490f071cf176e735251cadad6f5817c18ef27&" alt="guneofficial" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, Nest.js, Node.js,.NET**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danula gunawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danula gunawardana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danula-gunawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danula gunawardana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
